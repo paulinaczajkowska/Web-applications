@@ -32,6 +32,9 @@ Bouldering is a form of rock climbing performed on small rock formations or arti
 - Warm up before climbing.
 - Know your limits and listen to your body.
 
+## List Of The Hardest Boulders
+[Routes so tough that even your father wouldn't have done them injury-free in '86.](boulders.md)
+
 <p align="center">
   <img src="docs/images/image1.jpeg" width="30%">
   <img src="docs/images/image2.jpeg" width="30%">
