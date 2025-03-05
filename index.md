@@ -1,9 +1,9 @@
 # Bouldering
 
 <p align="center">
-  <img src="docs/images/image1.jpeg" width="30%">
-  <img src="docs/images/image2.jpeg" width="30%">
-  <img src="docs/images/image3.jpeg" width="30%">
+  <img src="docs/images/image1.jpeg" height="200px">
+  <img src="docs/images/image2.jpeg" height="200px">
+  <img src="docs/images/image3.jpeg" height="200px">
 </p>
 
 ## What is Bouldering?
