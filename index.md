@@ -33,3 +33,8 @@ Bouldering is a form of rock climbing performed on small rock formations or arti
 - Know your limits and listen to your body.
 
 Happy Climbing!
+
+<video width="640" height="360" controls>
+  <source src="video1.mp4" type="video1/mp4">
+  Your browser does not support the video tag.
+</video>
