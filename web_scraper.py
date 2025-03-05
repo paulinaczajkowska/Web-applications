@@ -5,9 +5,9 @@ import requests
 bouldering_md_content = """# Bouldering
 
 <p align="center">
-  <img src="image1.jpeg" height="100px">
-  <img src="image2.jpeg" height="100px">
-  <img src="image3.jpeg" height="100px">
+  <img src="docs/images/image1.jpeg" height="100px">
+  <img src="docs/images/image2.jpeg" height="100px">
+  <img src="docs/images/image3.jpeg" height="100px">
 </p>
 
 ## What is bouldering?
