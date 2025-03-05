@@ -1,5 +1,11 @@
 # Bouldering
 
+<p align="center">
+  <img src="docs/images/image1.jpeg" width="30%">
+  <img src="docs/images/image2.jpeg" width="30%">
+  <img src="docs/images/image3.jpeg" width="30%">
+</p>
+
 ## What is Bouldering?
 Bouldering is a form of rock climbing performed on small rock formations or artificial walls without the use of ropes or harnesses. Climbers rely on crash pads for protection and focus on short but challenging routes known as "problems."
 
@@ -34,10 +40,3 @@ Bouldering is a form of rock climbing performed on small rock formations or arti
 
 ## List Of The Hardest Boulders
 [Routes so tough that even your father wouldn't have done them injury-free in '86.](boulders.md)
-
-
-<p align="center">
-  <img src="docs/images/image1.jpeg" width="30%">
-  <img src="docs/images/image2.jpeg" width="30%">
-  <img src="docs/images/image3.jpeg" width="30%">
-</p>
