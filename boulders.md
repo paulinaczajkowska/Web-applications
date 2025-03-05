@@ -1,4 +1,7 @@
-# 9A (extremely hard) boulders
+# 9A boulders (extremely hard)
+
+[Go back](index.md)
+
 - Burden of Dreams
 - Soudain Seul
 - Return of the Sleepwalker
