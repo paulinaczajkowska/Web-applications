@@ -31,3 +31,9 @@ Bouldering is a form of rock climbing performed on small rock formations or arti
 - Position crash pads correctly.
 - Warm up before climbing.
 - Know your limits and listen to your body.
+
+<p align="center">
+  <img src="docs/images/image1.png" width="30%">
+  <img src="docs/images/image2.png" width="30%">
+  <img src="docs/images/image3.png" width="30%">
+</p>
