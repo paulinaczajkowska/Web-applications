@@ -82,7 +82,6 @@ for i, clink in enumerate(climbs_links):
 [Go back](boulders.md)
 """
 
-    # Save to a markdown file
     filename = f"climb{i + 1}.md"
     with open(filename, "w") as file:
         file.write(md_content)
